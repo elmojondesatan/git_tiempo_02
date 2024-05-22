@@ -1,0 +1,9 @@
+.Footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Footer h1 {
+    color: green;
+}
