@@ -1,6 +1,22 @@
-.headers {
+.header {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    justify-content: center;
-    color: green;
+
+}
+
+.titulo span {
+    background-color: orange;
+    color: white;
+    padding: 0.8rem 0.5rem;
+    border-radius: 100%;
+  }
+
+.btn_git{
+text-decoration: none;
+background-color: rgb(43, 9, 9);
+color: white;
+font-weight: 600;
+padding: 0.5rem 2rem;
+border-radius: 3px;
 }
